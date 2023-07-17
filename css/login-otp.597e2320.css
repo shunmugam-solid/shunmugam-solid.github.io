@@ -1,0 +1,1 @@
+.loginOtp__resend-text{display:flex;font-size:14px}.loginOtp__resend-btn{color:var(--branding);cursor:pointer;text-decoration:underline;margin-left:auto}.loginOtp__resend-btn.is-disabled{cursor:not-allowed;pointer-events:none;color:grey}.loginOtp__resend-timer{color:var(--color-red)}.loginOtp .navigationHeader{min-height:68px}
