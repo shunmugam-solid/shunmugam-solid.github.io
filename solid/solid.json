@@ -1,27 +1,9 @@
 {
   "name": "Solid",
+  "programCode": "0002",
   "primaryColor": "#141414",
-  "darkPrimaryColor": "#FFFFFF",
-  "primaryTextColor": "#000000",
-  "darkPrimaryTextColor": "#FFFFFF",
-  "secondaryColor": "#3C3C43",
-  "darkSecondaryColor": "#EBEBF5",
-  "ctaColor": "#141414",
-  "darkCtaColor": "#FFFFFF",
-  "ctaTextColor": "#FFFFFF",
-  "darkCtaTextColor": "#000000",
-  "forceUpdate": {
-    "android": {
-      "version": 80,
-      "required": false
-    },
-    "ios": {
-      "version": 2.9,
-      "required": false
-    }
-  },
+  "isTestModeEnabled": true,
   "isSegmentEnabled": true,
-  "isSSOEnabled": false,
   "ui": {
     "isTestModeEnabled": true,
     "isAcceptAccTermsEnabled": true,
@@ -49,27 +31,15 @@
     "isAddToWalletEnabled": true
   },
   "supportMail": "hi@solidfi.com",
-  "evolveTerms": "https://www.solidfi.com/disclosures/evolve-business-account-debit-card-agreement",
-  "platformTerms": "https://www.solidfi.com/disclosures/solid-program-terms-of-service-business",
-  "walletTerms": "https://www.solidfi.com/disclosures/solid-account-agreement-business",
+  "evolveTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188798-evolve-bank-trust-terms-of-service",
+  "platformTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188803-solid-banking-platform-terms-of-service",
+  "walletTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188804-solid-wallet-terms-of-service",
   "helpCenter": "https://help.solidfi.com/hc/en-us/sections/4405471064091-Using-the-Application",
-  "disclosures": "https://www.solidfi.com/disclosures/solid-wallet-disclosures",
+  "disclosures": "https://help.solidfi.com/hc/en-us/categories/4405726740763-Compliance",
   "atmPinLearnMore": "https://help.solidfi.com/hc/en-us/sections/4405471064091-Using-the-Application",
-  "supportedCountries": ["US", "BR", "CN", "IN"],
+  "supportedCountries": ["US", "BR", "IN"],
   "env": {
     "prodtest": {
-      "clientId": "8KoG6Dy7gqRvxTlVEVPrHrXGc9zsQyet",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
-      "android": {
-        "clientId": "KSkWo6cPbVOrGl6ts6iccIqyvikdIQO0",
-        "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
-      },
-      "ios": {
-        "clientId": "abEiClhhnXuLFIcwCSTAuZAxOb0EUKxj",
-        "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
-      }
-    },
-    "development": {
       "clientId": "PPmZ9uLeYsrDn1KVkuP6X5xI118sdjzU",
       "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
       "android": {
@@ -81,41 +51,13 @@
         "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
       }
     },
-    "staging": {
-      "clientId": "jclbmxwyx4AkWj5SNQ6ljJnp99GKsfGU",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
-      "android": {
-        "clientId": "jbzJitZEDYuMzS2gair3WaCo6eMGlxMR",
-        "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
-      },
-      "ios": {
-        "clientId": "l4BGJsR8q5GDGqxzxEoUnKu5vadbP352",
-        "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
-      }
-    },
-    "pentest": {
-      "clientId": "jclbmxwyx4AkWj5SNQ6ljJnp99GKsfGU",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq"
-    },
-    "perf": {
-      "clientId": "jclbmxwyx4AkWj5SNQ6ljJnp99GKsfGU",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq"
-    },
     "prod": {
-      "clientId": "sWBQ0IDyQzTCDNp3lCpDG3ZjNoxJvnu3",
-      "segmentKey": "lmQhavrw94409Z2wE73aSzLWDVo0SwnS",
-      "android": {
-        "clientId": "0hV83jU6B39c2RhzdkdI01M0gU9SsOMc",
-        "segmentKey": "C6nuvMCJACvECkMhLcz73VSbzRrHr6fE"
-      },
-      "ios": {
-        "clientId": "teSc2ExdMcwV4UBbFt3L6XaVknIzcGnE",
-        "segmentKey": "Mn2UDczHsEmpMgzJ0hPT8CZ2t9JN3DAy"
-      }
+      "clientId": "",
+      "segmentKey": ""
     },
-    "sre": {
-      "clientId": "jclbmxwyx4AkWj5SNQ6ljJnp99GKsfGU",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq"
+    "qa": {
+      "clientId": "",
+      "segmentKey": ""
     }
   },
   "appUrl": {
