@@ -39,25 +39,29 @@
   "atmPinLearnMore": "https://help.solidfi.com/hc/en-us/sections/4405471064091-Using-the-Application",
   "supportedCountries": ["US", "BR", "IN"],
   "env": {
-    "prodtest": {
-      "clientId": "PPmZ9uLeYsrDn1KVkuP6X5xI118sdjzU",
+    "prod": {
+      "clientId": "8KoG6Dy7gqRvxTlVEVPrHrXGc9zsQyet",
       "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
       "android": {
-        "clientId": "ycelQEqvT7wE3dtGDjqgJakWqbk7n78L",
+        "clientId": "KSkWo6cPbVOrGl6ts6iccIqyvikdIQO0",
         "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
       },
       "ios": {
-        "clientId": "hOwn1JOdi23lPVlAt8q9w026UvL9SRWM",
+        "clientId": "abEiClhhnXuLFIcwCSTAuZAxOb0EUKxj",
         "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
       }
     },
-    "prod": {
-      "clientId": "",
-      "segmentKey": ""
-    },
-    "qa": {
-      "clientId": "",
-      "segmentKey": ""
+    "prodtest": {
+      "clientId": "8KoG6Dy7gqRvxTlVEVPrHrXGc9zsQyet",
+      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
+      "android": {
+        "clientId": "KSkWo6cPbVOrGl6ts6iccIqyvikdIQO0",
+        "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
+      },
+      "ios": {
+        "clientId": "abEiClhhnXuLFIcwCSTAuZAxOb0EUKxj",
+        "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
+      }
     }
   },
   "appUrl": {
