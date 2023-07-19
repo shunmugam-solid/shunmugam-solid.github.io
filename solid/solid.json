@@ -1,6 +1,6 @@
 {
   "name": "Solid",
-  "programCode": "0001",
+  "programCode": "0002",
   "primaryColor": "#141414",
   "isTestModeEnabled": true,
   "isSegmentEnabled": true,
@@ -40,28 +40,16 @@
   "supportedCountries": ["US", "BR", "IN"],
   "env": {
     "prod": {
-      "clientId": "8KoG6Dy7gqRvxTlVEVPrHrXGc9zsQyet",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
-      "android": {
-        "clientId": "KSkWo6cPbVOrGl6ts6iccIqyvikdIQO0",
-        "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
-      },
-      "ios": {
-        "clientId": "abEiClhhnXuLFIcwCSTAuZAxOb0EUKxj",
-        "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
-      }
+      "auth0ClientId": "L7eYPLl8iYk00D6aQhGhMaBCLKtUu95V",
+      "auth0Audience": "https://api.wise.backend",
+      "auth0Domain": "superbank-staging.us.auth0.com",
+      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq"
     },
     "prodtest": {
-      "clientId": "8KoG6Dy7gqRvxTlVEVPrHrXGc9zsQyet",
-      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq",
-      "android": {
-        "clientId": "KSkWo6cPbVOrGl6ts6iccIqyvikdIQO0",
-        "segmentKey": "F2WNvT2cWGr06waTEfNvpxv0y3jAMVRu"
-      },
-      "ios": {
-        "clientId": "abEiClhhnXuLFIcwCSTAuZAxOb0EUKxj",
-        "segmentKey": "ghCNNPjGBDvbFoDU9LpxB0hBgWxKq4FM"
-      }
+      "auth0ClientId": "L7eYPLl8iYk00D6aQhGhMaBCLKtUu95V",
+      "auth0Audience": "https://api.wise.backend",
+      "auth0Domain": "superbank-staging.us.auth0.com",
+      "segmentKey": "GQ9HxK4GRRDLAc6RReDRVzkBpkoMlyZq"
     }
   },
   "appUrl": {
