@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/4242.38a27b14.chunk.css","mappings":"AAAA,oCAEC,qBAAuB,CADvB,oBAED,CAEA,sCACC,kBACD","sources":["views/crypto/buyCrypto/BuyAmount/BuyAmount.module.css"],"sourcesContent":[".inputRightElement {\n\twidth: auto !important;\n\theight: 100% !important;\n}\n\n.currencyInput input {\n\tpadding-right: 70px;\n}"],"names":[],"sourceRoot":""}
