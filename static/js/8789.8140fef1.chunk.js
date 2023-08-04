@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdrop_in_ui=self.webpackChunkdrop_in_ui||[]).push([[8789],{9154:function(e,n,o){o.r(n);o(2791);var s=o(680),a=o(184);n.default=function(){return(0,a.jsx)(s.Z,{showHeader:!1,showBack:!0,showSearch:!0,showAdd:!0,showCompactView:!1,pagination:!0,contactsPerView:20})}}}]);
+//# sourceMappingURL=8789.8140fef1.chunk.js.map
