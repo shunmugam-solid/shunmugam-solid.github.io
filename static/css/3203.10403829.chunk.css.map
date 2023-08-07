@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/3203.10403829.chunk.css","mappings":"AAAA,4BAGC,qBAAuB,CAFvB,iBAAkB,CAClB,oBAED","sources":["views/cards/AtmPin/AtmPin.module.css"],"sourcesContent":[".input_field {\n\tmargin-right: 24px;\n\twidth: 48px !important;\n\theight: 48px !important;\n}"],"names":[],"sourceRoot":""}
