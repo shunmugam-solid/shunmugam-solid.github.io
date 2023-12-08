@@ -1,0 +1,67 @@
+{
+  "name": "Solid",
+  "programCode": "0002",
+  "primaryColor": "#141414",
+  "isTestModeEnabled": true,
+  "isSegmentEnabled": true,
+  "ui": {
+    "isTestModeEnabled": true,
+    "isAcceptAccTermsEnabled": true,
+    "isSendCardByMailVisible": false,
+    "isTransactionsEnabled": true,
+    "isCardsEnabled": true,
+    "isTransferMoneyEnabled": true,
+    "isSendMoneyEnabled": true,
+    "isPullFundsEnabled": true,
+    "isIntrabankTransferEnabled": true,
+    "isToAnotherBankEnabled": true,
+    "isDepositCheckEnabled": true,
+    "isSendMoneyIntraBankEnabled": true,
+    "isSendMoneyACHEnabled": true,
+    "isSendMoneyCheckEnabled": true,
+    "isSendMoneyDomesticwireEnabled": true,
+    "isSendMoneyVisaCardEnabled": true,
+    "isContactMakePaymentEnabled": true,
+    "isProfileHelpCenterEnabled": true,
+    "isProfileGetInTouchEnabled": true,
+    "isProfileDisclosureEnabled": true,
+    "isAccDetailDisclosureEnabled": true,
+    "isPhysicalCardEnabled": true,
+    "isVirtualCardEnabled": true,
+    "isAddToWalletEnabled": true
+  },
+  "supportMail": "hi@solidfi.com",
+  "evolveTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188798-evolve-bank-trust-terms-of-service",
+  "platformTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188803-solid-banking-platform-terms-of-service",
+  "walletTerms": "https://intercom.help/solid-2cf7e39d14f4/en/articles/5188804-solid-wallet-terms-of-service",
+  "helpCenter": "https://help.solidfi.com/hc/en-us/sections/4405471064091-Using-the-Application",
+  "disclosures": "https://help.solidfi.com/hc/en-us/categories/4405726740763-Compliance",
+  "atmPinLearnMore": "https://help.solidfi.com/hc/en-us/sections/4405471064091-Using-the-Application",
+  "supportedCountries": ["US", "BR", "IN"],
+  "auth0Terms": "https://help.solidfi.com/hc/en-us/articles/4405763549979-Solid-Program-Terms-of-Service-Consumer-",
+  "auth0Privacy": "https://help.solidfi.com/hc/en-us/articles/4405726967195-Solid-Privacy-Policy",
+  "env": {
+    "prod": {
+      "auth0ClientId": "O90QBtFmxiB4KFOYRuttPxZu3sJm1rqp",
+      "auth0Audience": "https://api.wise.backend",
+      "auth0Domain": "superbank-qa.us.auth0.com",
+      "segmentKey": ""
+    },
+    "prodtest": {
+      "auth0ClientId": "",
+      "auth0Audience": "",
+      "auth0Domain": "",
+      "segmentKey": ""
+    }
+  },
+  "appUrl": {
+    "android": {
+      "url": "https://play.google.com/store/apps/details?id=com.solidfi.solid",
+      "urlScheme": ""
+    },
+    "ios": {
+      "url": "https://apps.apple.com/us/app/solid/id1565407982",
+      "urlScheme": ""
+    }
+  }
+}
