@@ -48,9 +48,9 @@
       "segmentKey": ""
     },
     "prodtest": {
-      "auth0ClientId": "",
-      "auth0Audience": "",
-      "auth0Domain": "",
+      "auth0ClientId": "Bwg99nzhiWtUM60wxnTo0PzkoqhtyxLq",
+      "auth0Audience": "https://api.wise.backend",
+      "auth0Domain": "superbank-staging.us.auth0.com",
       "segmentKey": ""
     }
   },
