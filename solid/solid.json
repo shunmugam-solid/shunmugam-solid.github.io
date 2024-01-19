@@ -42,9 +42,9 @@
   "auth0Privacy": "https://help.solidfi.com/hc/en-us/articles/4405726967195-Solid-Privacy-Policy",
   "env": {
     "prod": {
-      "auth0ClientId": "Bwg99nzhiWtUM60wxnTo0PzkoqhtyxLq",
+      "auth0ClientId": "arTKt9imDQjAq9ZoNRXHngn5lNPelyOZ",
       "auth0Audience": "https://api.wise.backend",
-      "auth0Domain": "superbank-staging.us.auth0.com",
+      "auth0Domain": "superbank-qa.us.auth0.com",
       "segmentKey": ""
     },
     "prodtest": {
